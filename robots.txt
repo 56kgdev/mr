@@ -1,0 +1,4 @@
+User-Agent: Googlebot
+Disallow: /
+Disallow: index.html
+Sitemap: http://seahouse.com.mx/sitemap.xml

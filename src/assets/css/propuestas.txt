@@ -1,0 +1,173 @@
+/*******************************************************
+
+            Propuesta 1  (Escala de grises)
+
+*******************************************************/
+
+
+//////  FOOTER  //////
+
+ #footer:   background-color: #e6e6e6;
+ .footer-title:  color: #000;
+ .touch-title:  color: #000;
+ .ftr-list:   color:#5e5e5e;
+
+ #bottom_footer:  background-color: rgb(179, 179, 179);
+ .reserve_text:   color: #000;
+ .reserve_text  a:hover{
+	color:#9cd7d3;
+}
+.reserve_text  a{
+	color:#307179;
+}
+
+
+////  About  /////
+
+#who_are {
+    background: #e6e6e6 no-repeat scroll 120% center;
+}
+
+.who_text p,
+.who_list{
+	color:#000000;
+	font-family:'Montserrat', sans-serif;
+}
+
+.section_title_white{
+    color:#00b1ae;
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+/*******************************************************
+
+            Propuesta 2 
+
+*******************************************************/
+
+
+//////  FOOTER  //////
+
+ #footer:   background-color: #d7ecffcc;
+ .footer-title:  color: #000;
+ .touch-title:  color: #000;
+ .ftr-list:   color:#5e5e5e;
+
+ #bottom_footer:  background-color:#b0cbe2;
+ .reserve_text:   color: #000;
+ .reserve_text  a:hover{
+	color:#9cd7d3;
+}
+.reserve_text  a{
+	color:#307179;
+}
+
+
+////  About  /////
+
+#who_are {
+    background: #d7ecff6b no-repeat scroll 120% center;
+}
+
+.who_text p,
+.who_list{
+	color:#000000;
+	font-family:'Montserrat', sans-serif;
+}
+
+.section_title_white{
+    color:#00b1ae;
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+/*******************************************************
+
+            Propuesta 3
+
+*******************************************************/
+
+
+//////  FOOTER  //////
+
+ #footer:   background-color: #0157769d;
+ .footer-title:  color: #000;
+ .touch-title:  color: #000;
+ .ftr-list:   color:#fff;
+
+ #bottom_footer:  background-color:#b0cbe2;
+ .reserve_text:   color: #000;
+ .reserve_text  a:hover{
+	color:#fff;
+}
+.reserve_text  a{
+	color:#307179;
+}
+
+
+////  About  /////
+
+#who_are {
+    background: #d7ecff6b no-repeat scroll 120% center;
+}
+
+.who_text p,
+.who_list{
+	color:#000000;
+	font-family:'Montserrat', sans-serif;
+}
+
+.section_title_white{
+    color:#00b1ae;
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+/*******************************************************
+
+            Propuesta 4
+
+*******************************************************/
+
+
+//////  FOOTER  //////
+
+ #footer:   background-color: rgba(41, 129, 197, 0.658);
+ .footer-title:  color: #000;
+ .touch-title:  color: #000;
+ .ftr-list:   color:#fff;
+
+ #bottom_footer:  background-color:#0b2941;
+ .reserve_text:   color: #fff;
+ .reserve_text  a:hover{
+	color:#307179;
+}
+.reserve_text  a{
+	color:#fff;
+}
+
+
+////  About  /////
+
+#who_are {
+    background: #d7ecff6b no-repeat scroll 120% center;
+}
+
+.who_text p,
+.who_list{
+	color:#000000;
+	font-family:'Montserrat', sans-serif;
+}
+
+.section_title_white{
+    color:#00b1ae;
+}
+
+
+
+
+

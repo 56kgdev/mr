@@ -1,5 +1,5 @@
 <?php
-    const idComp='company=141';
+    const idComp='company=247';
     //Funcion que decodifica los json
         function getJsons($urlJson){
             $json = file_get_contents($urlJson);

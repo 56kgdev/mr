@@ -31,7 +31,7 @@
 							<div class="collapse navbar-collapse my_nav" id="bs-example-navbar-collapse-1">																											
 								<ul class="nav navbar-nav navbar-right nav_text">
 									<li><router-link to="/">Inicio </router-link></li>
-									<li><router-link to="/nosotros">Nosotros</router-link></li>
+									<!--li><router-link to="/nosotros">Nosotros</router-link></li-->
 									<li><router-link to="/propiedades">Propiedades</router-link></li>
 									<li><router-link to="/contacto">Contacto</router-link></li>		
 									<!--<li><router-link to="/aviso-privacidad">Aviso de privacidad</router-link></li> -->

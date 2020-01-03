@@ -74,11 +74,11 @@
 				<div class="social_area dadFace">
 					<ul>
 						<h5>Comparte.</h5>
-						<li><a href="https://www.facebook.com/sharer/sharer.php?u=http://seahouse.com.mx/" target="_blank" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-						<li ><a href="https://twitter.com/intent/tweet?text=http://seahouse.com.mx/" target="_blank" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li ><a href="https://www.linkedin.com/sharing/share-offsite/?url=http://seahouse.com.mx/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-						<li ><a href="https://plus.google.com/share?url=http://seahouse.com.mx/" target="_blank" class="gmas"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>							
-						<li ><a :href="'https://www.pinterest.com.mx/pin/create/button/?url=http://seahouse.com.mx/&media=http://agent.immosystem.com.mx/'+logo+'&description=Venta y renta de casas y más en Guadalajara : SEAHOUSE'" target="_blank" class="pinterest"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.facebook.com/sharer/sharer.php?u=http://mrhouse.mx/" target="_blank" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						<li ><a href="https://twitter.com/intent/tweet?text=http://mrhouse.mx/" target="_blank" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						<li ><a href="https://www.linkedin.com/sharing/share-offsite/?url=http://mrhouse.mx/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+						<li ><a href="https://plus.google.com/share?url=http://mrhouse.mx/" target="_blank" class="gmas"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>							
+						<li ><a :href="'https://www.pinterest.com.mx/pin/create/button/?url=http://mrhouse.mx/&media=http://agent.immosystem.com.mx/'+logo+'&description=Venta y renta de casas y más en Guadalajara : SEAHOUSE'" target="_blank" class="pinterest"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
 					</ul>
 				</div>				
 			</div>

@@ -181,7 +181,7 @@
     margin: auto;
   } 
   #search{
-    background-color: rgba(156, 215, 211, 0.773);
+    background-color: #ed1c24;
     color: #fff;
   }
   @media only screen and (max-width: 1200px) {

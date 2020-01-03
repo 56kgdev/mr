@@ -24,7 +24,7 @@
       var cookie = verifyCookie(clave);
       if (cookie!="") {
         $.ajax({
-          url: "http://www.immosystem.com.mx/api/countvisits.php?companyid=141&concurrent=1",
+          url: "http://www.immosystem.com.mx/api/countvisits.php?companyid=247&concurrent=1",
           method: "GET",
           async: false,         
           dataType: "json",
@@ -38,7 +38,7 @@
       }else{
           createCookie(clave,1,365);
             $.ajax({
-            url: "http://www.immosystem.com.mx/api/countvisits.php?companyid=141&unic=1",
+            url: "http://www.immosystem.com.mx/api/countvisits.php?companyid=247&unic=1",
             method: "GET",
             async: false,         
             dataType: "json",
@@ -71,7 +71,7 @@
     $data=getMetaData($field);
     $unique=TRUE;
   }else{
-    $field= 'company=141';
+    $field= 'company=247';
     $data=getMetaData($field);
     $unique=FALSE;
   }
@@ -181,7 +181,7 @@
 
       function beforeExit() {        
         $.ajax({
-          url: "http://www.immosystem.com.mx/api/countvisits.php?companyid=141&live=0",
+          url: "http://www.immosystem.com.mx/api/countvisits.php?companyid=247&live=0",
           method: "GET",
           async: false,         
           dataType: "json",

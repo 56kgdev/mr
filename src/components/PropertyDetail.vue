@@ -793,7 +793,7 @@
 				precioVenta: [],			
 				/* Datos para correo electronico */	
 				//Datos para informacion por propiedad	
-				urlSite: "http://seahouse.com.mx/",	
+				urlSite: "http://mrhouse.mx/",	
 				company: "",
 				companyId:"",
 				agentId:"",	
@@ -843,7 +843,7 @@
 	
 			immoService.getDetPropById(id).then(res => {
 	
-				if (res.property.company == "141") {
+				if (res.property.company == "247") {
 	
 					const property = res.property;
 	

@@ -99,7 +99,7 @@ export default {
 			/* Datos para correo electronico */
 					
 			//Datos para informacion por mensaje
-			urlSite:'http://seahouse.com.mx/',
+			urlSite:'http://mrhouse.mx/',
 			company:'',		
 			companyid:'',
 

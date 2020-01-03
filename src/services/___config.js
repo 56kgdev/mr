@@ -4,15 +4,15 @@ const config = {
     singleUrl: Informacion para descripcion de propiedad
     allPropUrl:  Informacion de todas las propiedades
   */
-  apiUrl: 'http://www.immosystem.com.mx/api/properties.php?company=141&home=true',
+  apiUrl: 'http://www.immosystem.com.mx/api/properties.php?company=247&home=true',
   singleUrl: 'http://www.immosystem.com.mx/api/properties.php?property=',
-  allPropUrl: 'http://www.immosystem.com.mx/api/properties.php?company=141',
+  allPropUrl: 'http://www.immosystem.com.mx/api/properties.php?company=247',
 
   /*url's para desarrollos
     allDevsUrl: lista de todos los desarrollos (para tarjetas)
     devsInfoUrl: Informacion para descripcion de desarrollo
   */
-  allDevsUrl:'http://www.immosystem.com.mx/api/developments.php?company=141&developments=true',
+  allDevsUrl:'http://www.immosystem.com.mx/api/developments.php?company=247&developments=true',
   devsInfoUrl:'http://www.immosystem.com.mx/api/developments.php?folio=',
   propsListDevsAdd:'&p=true',
 
@@ -23,15 +23,15 @@ const config = {
 
   */
     //ciudades
-    selectCities:'http://www.immosystem.com.mx/api/inputs.php?company=141',
+    selectCities:'http://www.immosystem.com.mx/api/inputs.php?company=247',
 
     //Compañia Info
 
-    infoCompany: 'http://www.immosystem.com.mx/api/footer.php?company=154',
+    infoCompany: 'http://www.immosystem.com.mx/api/footer.php?company=247',
 
     //Propiedades Info
       //todas las propiedades
-        allProps:'http://www.immosystem.com.mx/api/properties.php?company=141',
+        allProps:'http://www.immosystem.com.mx/api/properties.php?company=247',
       // Descripcion de la propiedad
         detailProps: 'http://www.immosystem.com.mx/api/properties.php?property=',
       //Metadatos por propiedad
@@ -39,17 +39,17 @@ const config = {
 
     //Desarrollos Info
       //todos los desarrollos
-        allDevs:'http://www.immosystem.com.mx/api/developments.php?company=141&developments=true',
+        allDevs:'http://www.immosystem.com.mx/api/developments.php?company=247&developments=true',
       //Descripcion del desarrollo
         detailDevs:'http://www.immosystem.com.mx/api/developments.php?folio=',
 
     //HomePage Info
       //Propiedades destacadas
-        destProps:'http://www.immosystem.com.mx/api/destacadas.php?company=141',
+        destProps:'http://www.immosystem.com.mx/api/destacadas.php?company=247',
       //Propiedades de slider
-        sliderProps:'http://www.immosystem.com.mx/api/slider.php?company=141&home=true',
+        sliderProps:'http://www.immosystem.com.mx/api/slider.php?company=247&home=true',
       //Propiedades aleatorias
-        randomProps:'http://www.immosystem.com.mx/api/properties.php?company=141&home=true'
+        randomProps:'http://www.immosystem.com.mx/api/properties.php?company=247&home=true'
 }
 
 export default config

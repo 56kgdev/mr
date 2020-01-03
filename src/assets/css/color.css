@@ -237,7 +237,7 @@ blockquote,
 .bullet > ul > li.active,
 .slider-search-2 h1,
 .jslider .jslider-bg .v {
-    background: #9cd7d3
+    background: #ed1c24
 }
 .on-panel, 
 .scroll-btn, 
@@ -254,10 +254,10 @@ blockquote,
 .circle_area,
 .service_area:hover::before,
 .service_circle {
-    background-color: #9cd7d3
+    background-color: #ed1c24
 }
 .top_right ul li .dropdown-menu > li > a:hover {
-    background-color: #9cd7d3;
+    background-color: #ed1c24;
     color: #fff
 }
 .dropdown-menu, 
@@ -266,11 +266,11 @@ blockquote,
 }
 .bootstrap-select .dropdown-menu.inner li a:hover,
 .bootstrap-select .dropdown-menu.inner li a:focus {
-	background-color: #9cd7d3
+	background-color: #ed1c24
 }
 .dropdown-menu li a:hover, 
 .dropdown-menu li a:focus {
-    background-color: #9cd7d3;
+    background-color: #ed1c24;
     color: #fff;
     text-decoration: none
 }
@@ -356,7 +356,7 @@ blockquote,
     color: #1a1a1a;
 }
 .btn-default {
-    background-color: #9cd7d3;
+    background-color: #ed1c24;
     color: #fff;
 }
 .btn-primary {
@@ -595,7 +595,7 @@ blockquote,
     padding: 30px 0;
 }
 .slider-search-2 h1::before {
-    border-top: 35px solid #9cd7d3;
+    border-top: 35px solid #ed1c24;
 }
 #offer-style-3 .offer_area:hover::before {
     background: #9cd7d3;

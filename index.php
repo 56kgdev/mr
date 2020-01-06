@@ -137,7 +137,9 @@
     <!-- Template tags -->
   </head>
   <body data-spy="scroll" data-offset="80" onload="checkCookie('count')" onunload="beforeExit()">
-  
+    <div class="preloader">
+      
+    </div>
     <div itemtype="app" id="app">
       <h1 itemprop="title"><?php echo $data['title']?></h1>
       <div itemprop="header" id="header"><?php include './core/layouts/header.php'?></div>

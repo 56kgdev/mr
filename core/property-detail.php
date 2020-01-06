@@ -1,7 +1,7 @@
 <?php  
     include include './base/base.php';
 
-    $enlace_actual = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+    $enlace_actual = 'https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
     $porciones = explode("/", $enlace_actual );
     $porcion = explode("-", $porciones [3]);
    

@@ -55,7 +55,7 @@
 .br-widget > a.br-active, 
 .br-widget > a.br-selected, 
 .user-rating ul li.active {
-    color: #9cd7d3
+    color: #000000
 }
 .top_right ul li .dropdown-menu > li > a, 
 .modal-body > p, 
@@ -254,7 +254,7 @@ blockquote,
 .circle_area,
 .service_area:hover::before,
 .service_circle {
-    background-color: #ed1c24
+    background-color: #000000
 }
 .top_right ul li .dropdown-menu > li > a:hover {
     background-color: #ed1c24;
@@ -304,7 +304,7 @@ blockquote,
 .submit_property > a:hover, 
 .owl-theme .owl-controls .owl-nav [class*="owl-"],
 .profile_person .socail_area{
-    background-color:  #d7ecffcc;
+    background-color:  #f6fbff;
 }
 .advance_search .form_part .location,
 #find-location .property_filter_input,
@@ -429,7 +429,7 @@ blockquote,
 }
 #bottom_footer, 
 .scroll-btn:hover {
-    background-color: #b0cbe2;
+    background-color: #cecdcc;
 }
 .find_text::before {
     border-left-color: #9cd7d3;
@@ -453,12 +453,12 @@ blockquote,
     background: #d7ecff6b no-repeat scroll 120% center;
 }
 .panel-title a {
-    background-color: #9cd7d3;
-    color: #fff;
+    background-color: #ed1c24;
+    color: rgb(255, 255, 255);
 }
 .panel-title a.collapsed {
-    background-color: #fff;
-    color: #717171;
+    background-color: #ed1c24;
+    color: #ffffff;
 }
 .jslider .jslider-bg i, 
 .jslider .jslider-pointer {
@@ -470,7 +470,7 @@ blockquote,
 }
 .info-list ul li span,
 .agent_info .author_name {
-    color: #9cd7d3;
+    color: #000000;
 }
 .feedback_small p {
     color: #a2a2a2;

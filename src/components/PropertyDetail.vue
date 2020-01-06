@@ -1063,8 +1063,8 @@
 
 <style scoped>
 	.price {
-	
-		background-color: #9cd7d3c5;
+
+		background-color: #000000;
 	
 		border-radius: 5px;
 	
@@ -1094,8 +1094,7 @@
 	
 	.price h3 {
 	
-		color: #000;
-	
+		color: #ffffff;	
 		padding-top: 10px;
 	
 		padding-bottom: 10px;

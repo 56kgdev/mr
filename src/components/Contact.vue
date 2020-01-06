@@ -18,19 +18,6 @@
 				</div>
 			</div>
 		</section>		
-		<!--Search-->		
-		<section style="padding:0px;">			
-			<div class="container" align="center">
-				<br>
-				<div class="section-title text-center wow zoomIn">
-					<h3 class="section_title_blue">Encuentra el hogar <span>de tus sueños</span></h3>				
-				</div>				
-				<div class="slider-search-2" align="center">					
-					<ip-search-form @select="setPropertiesFound"></ip-search-form>
-				</div>
-			</div>
-		</section>
-		<!--End search -->
 		<!-- START CONTACT FORM  -->
 		<section id="contact" class="contact-us section-padding">
 			<div class="container"> 

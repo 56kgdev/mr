@@ -97,7 +97,7 @@ export default {
 <style scoped>
 	.navbar-brand img {
 	    margin-top: -17px;
-    width: 85px;		
+    	width: 150px;		
 	}
 	/*@media only screen and (max-width:991px) {
 		.navbar-brand img{

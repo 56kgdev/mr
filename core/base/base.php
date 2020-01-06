@@ -13,38 +13,37 @@
     /**** Recuperacion de datos json y envio ****/
 
     function getMetaData($dataUrl){
-        $url ='http://www.immosystem.com.mx/api/metatags.php?'.$dataUrl;
-        print_r($url);
+        $url ='https://www.immosystem.com.mx/api/metatags.php?'.$dataUrl;
         $res = getJsons($url);              
         return $res['metatags'];
     }
 
     function getFooter(){
-        $url='http://www.immosystem.com.mx/api/footer.php?'.idComp;
+        $url='https://www.immosystem.com.mx/api/footer.php?'.idComp;
         $res=getJsons($url);
         return $res['footer'][0];
     }
 
     function getPropsHome(){
-        $url='http://www.immosystem.com.mx/api/properties.php?'.idComp.'&home=true&limit=6';
+        $url='https://www.immosystem.com.mx/api/properties.php?'.idComp.'&home=true&limit=6';
         $res=getJsons($url);
         return $res['propiedades'];
     }
 
     function getPropsAll(){
-        $url='http://www.immosystem.com.mx/api/properties.php?'.idComp;
+        $url='https://www.immosystem.com.mx/api/properties.php?'.idComp;
         $res=getJsons($url);
         return $res['propiedades'];
     }
 
     function getDevsAll(){
-        $url='http://www.immosystem.com.mx/api/developments.php?'.idComp;
+        $url='https://www.immosystem.com.mx/api/developments.php?'.idComp;
         $res=getJsons($url);
         return $res['developments'];
     }
 
     function getDataProperty($idProp){
-        $url='http://www.immosystem.com.mx/api/properties.php?property='.$idProp;
+        $url='https://www.immosystem.com.mx/api/properties.php?property='.$idProp;
         $res=getJsons($url);
         /*if($res['property']['company']==143){
             return $res['property'];
